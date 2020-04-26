@@ -2,7 +2,9 @@
 title: "CodeBook"
 author: "Yasemin"
 date: "24/04/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
